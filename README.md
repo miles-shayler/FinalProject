@@ -1,4 +1,5 @@
 # FinalProject
-I am looking to create graphics capabilities to the searching for a movie binary search tree. I'd like to be able to
-create a GUI that will include artwork of each individual movie. Possibly looking into utilizing the API of 
-rotten tomatoes for movie review.
+I will be modyfiying the main graphing class that we created to implement a few more searches, and a couple more options to the mix.
+
+Utilizing the project:
+You will need to download all files and run the main.cpp after compiling.
