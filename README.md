@@ -5,3 +5,13 @@ Edit:: MapQuest API never got fully working, my project is not as completed as I
 
 Utilizing the project:
 You will need to download all files and run the main.cpp after compiling.
+
+Should work on any C++ 13 or higher compiler.
+
+There are no dependancies that havn't been accounted for inside of the code. Main uses are the vector and io packages.
+
+Contributers: I was the sole contributer.
+
+Bugs: I spent far too much time trying to work out the MapQuest API, and was unable to get it to work in time. It seems I was calling for distances in a manner that was incorrect, but I could not work it out, especially with finals.
+
+
